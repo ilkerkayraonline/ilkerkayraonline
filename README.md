@@ -1,0 +1,5 @@
+- 👋 Hello, I'm İlker KAYRA (@ilkerkayraonline). I'm a developer who develops applications with HTML, CSS, JAVA, and REACT. Discipline is everything for me. I can manage time and teams.
+- 👀 Any interface accessible to the user excites me. Whether it's web or mobile, I'm always eager to read and research in order to learn and improve.
+- 🌱 I am currently learning JAVA and REACT. After that, I will be learning REACT NATIVE.
+- 💞️ I am considering collaborating on projects where I can work together, provide guidance, or offer assistance.
+- 📫 You can reach me at my email address, and you can also find me on Instagram (inst: @ilkerkayraonline).
